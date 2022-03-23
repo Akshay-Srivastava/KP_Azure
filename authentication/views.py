@@ -33,10 +33,10 @@ from neo4j import GraphDatabase
 
 import requests
 from authentication.models import Contribute
-import cdata.zohocrm as mod1
-import cdata.freshdesk as mod2
-import cdata.salesforce as mod3
-import cdata.jira as mod4
+#import cdata.zohocrm as mod1
+#import cdata.freshdesk as mod2
+#import cdata.salesforce as mod3
+#import cdata.jira as mod4
 from json import dumps
 
 
